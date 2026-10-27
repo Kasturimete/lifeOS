@@ -1,0 +1,26 @@
+# Environment and secrets
+.env
+.env.*
+*.key
+*.pem
+
+# API keys / secrets
+config/secrets.php
+
+# Local database files
+*.sql
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# XAMPP/local files
+xampp/
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Operating system files
+Thumbs.db
+.DS_Store
